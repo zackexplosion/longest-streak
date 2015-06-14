@@ -1,6 +1,6 @@
 # Longest-streak
 
-Try to figure out how long is the longest streak, on github
+Try to figure out the longest streak on github
 
 # The code
 ``` bash
